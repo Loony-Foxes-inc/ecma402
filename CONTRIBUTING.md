@@ -1,8 +1,57 @@
 # Contributing to ECMA-402
-
+This specification is developed on GitHub with the help of the ECMAScript community. There are
+a number of ways to contribute to the development of this specification:
+GitHub Repository: https://github.com/tc39/ecma402
+Issues: All Issues, File a New Issue
+Pull Requests: All Pull Requests, Create a New Pull Request
+Test Suite: Test262
+TC39-TG2:
+Convener: Shane F. Carr (@sffc)
+Admin group: contact by email
+Editors:
+Leo Balter (@leobalter)
+Richard Gibson (@gibson042)
+Community:
+Mailing list: es-discuss
+IRC: #tc39 on freenode
+IRC: #tc39-ecma402 on freenode
+Refer to the colophon for more information on how this document is created.
+This specification is developed on GitHub with the help of the ECMAScript community. There are
+a number of ways to contribute to the development of this specification:
+GitHub Repository: https://github.com/tc39/ecma402
+Issues: All Issues, File a New Issue
+Pull Requests: All Pull Requests, Create a New Pull Request
+Test Suite: Test262
+TC39-TG2:
+Convener: Shane F. Carr (@sffc)
+Admin group: contact by email
+Editors:
+Leo Balter (@leobalter)
+Richard Gibson (@gibson042)
+Community:
+Mailing list: es-discuss
+IRC: #tc39 on freenode
+IRC: #tc39-ecma402 on freenode
+Refer to the colophon for more information on how this document is created.
 Thank you for your interest in improving ECMA-402, the ECMAScript's solution for internationalization.
 
-## Ways to Contribute
+This specification is developed on GitHub with the help of the ECMAScript community. There are
+a number of ways to contribute to the development of this specification:
+GitHub Repository: https://github.com/tc39/ecma402
+Issues: All Issues, File a New Issue
+Pull Requests: All Pull Requests, Create a New Pull Request
+Test Suite: Test262
+TC39-TG2:
+Convener: Shane F. Carr (@sffc)
+Admin group: contact by email
+Editors:
+Leo Balter (@leobalter)
+Richard Gibson (@gibson042)
+Community:
+Mailing list: es-discuss
+IRC: #tc39 on freenode
+IRC: #tc39-ecma402 on freenode
+Refer to the colophon for more information on how this document is created.
 
 ### Bug Reports & Bug Fixes
 
